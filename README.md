@@ -33,7 +33,7 @@
 | 13 | الدوال والأصناف الصديقة (Friend Functions and Classes) | [عرض الأكواد](src/Chapter13/README.md) | [عرض التمارين](exercises/Chapter13/README.md) |
 | 14 | الدوال الافتراضية (Virtual Functions) | [عرض الأكواد](src/Chapter14/README.md) | [عرض التمارين](exercises/Chapter14/README.md) |
 | 15 | الأصناف المجردة والواجهات (Abstract Classes and Interfaces) | [عرض الأكواد](src/Chapter15/README.md) | [عرض التمارين](exercises/Chapter15/README.md) |
-| 16 | مكتبة القوالب القياسية (STL) | [عرض الأكواد](src/Chapter16/README.md) | [عرض التمارين](exercises/Chapter15/README.md) |
+| 16 | مكتبة القوالب القياسية (STL) | [عرض الأكواد](src/Chapter16/README.md) | [عرض التمارين](exercises/Chapter16/README.md) |
 
 ---
 
