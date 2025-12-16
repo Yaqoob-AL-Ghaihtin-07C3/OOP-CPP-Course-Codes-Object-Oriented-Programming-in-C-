@@ -22,4 +22,5 @@ int main()
       cout << farr[k] << ", ";
    cout << endl;
    return  0;
+
    }
